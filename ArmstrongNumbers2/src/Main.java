@@ -7,7 +7,7 @@ public class Main {
         {
             temp = number;
             digit3=temp%10;// units digit
-            temp=temp/10;// taking out the unit digit
+            temp=temp/10;// taking out the units digit
 
             digit2=temp%10;// tens digit
             temp=temp/10;// taking out the tens digit
